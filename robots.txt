@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iweengosh.fontmoa.com/sitemap.xml
